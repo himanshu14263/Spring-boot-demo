@@ -4,4 +4,8 @@ public class testControllers {
     void testFunc(){
         System.out.println("hello world");
     }
+
+    int sum(int a, int b){
+        return a+b;
+    }
 }
